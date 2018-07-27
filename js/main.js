@@ -40,6 +40,6 @@ function myFirstApp(name,age) {
 	console.log(result);
 }
 
-myFirstApp('Вячеслав', 10);
+myFirstApp('Вячеслав', 39);
 
 });
